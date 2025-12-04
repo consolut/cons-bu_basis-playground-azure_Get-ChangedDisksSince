@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://sap.github.io/ui5-tooling/schema/ui5.yaml.json
+
+specVersion: "2.4"
+metadata:
+  name: cons.consolutTimesheetAnalysis
+type: application
+builder:
+  resources:
+    excludes:
+      - /test/**
+      - /localService/**
+  customTasks:
+    - name: deploy-to-abap
+      afterTask: generateCachebusterInfo
+      configuration:
+        target:
+          destination: CON_CSD_100
+          url: http://con-csd-ap.consolut.local:8200
+          client: '100'
+        app:
+          name: ZCONSTIMERECALP
+          description: "Timesheet analysis"
+          package: ZTS
+          transport: CSDK906777
+        exclude:
+          - /test/

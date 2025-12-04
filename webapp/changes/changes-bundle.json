@@ -1,0 +1,1934 @@
+[
+    {
+        "fileName": "id_1557227356121_194_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "filterProperty",
+            "newValue": "TimeSheetDate_T"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:10:36.987Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227359749_195_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "filterProperty",
+            "newValue": "TimeSheetDate"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:10:36.988Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227375812_196_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "minWidth",
+            "newValue": 20
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:10:36.989Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227381904_197_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "minWidth",
+            "newValue": 20
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:10:36.990Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227390973_198_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "minWidth",
+            "newValue": 20
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:10:36.991Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227398408_199_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "sortOrder",
+            "newValue": "Descending"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:10:36.992Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227403345_200_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "sorted",
+            "newValue": true
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:10:36.993Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227435603_201_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "minWidth",
+            "newValue": 20
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:10:36.994Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227457351_202_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "5em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-ProjectType",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.709Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227461457_203_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "10em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-ProjectType",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.710Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227469326_204_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "minWidth",
+            "newValue": 10
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-ProjectType",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.711Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227479444_205_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "13em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-EmploymentStatus",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.712Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227482659_206_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "8em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-EmploymentStatus",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.713Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227484921_207_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "5em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-EmploymentStatus",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.714Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227486829_208_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "6em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-EmploymentStatus",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.715Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227492188_209_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "minWidth",
+            "newValue": 6
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-EmploymentStatus",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.716Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227500722_210_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "6em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-InternalLevel",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.717Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227505259_211_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "minWidth",
+            "newValue": 6
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-InternalLevel",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.718Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227521671_212_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "5em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-RecordedHours",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.719Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227525183_213_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "6em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-RecordedHours",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.720Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227528016_214_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "8em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-RecordedHours",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.721Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227530713_215_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "7em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-RecordedHours",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.722Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227549747_216_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "10em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-PersonWorkAgreement",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.723Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227552288_217_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "15em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-PersonWorkAgreement",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.724Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227557113_218_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "minWidth",
+            "newValue": 10
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-PersonWorkAgreement",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:12:40.725Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227587422_219_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "visible",
+            "newValue": false
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::Share",
+            "type": "sap.m.OverflowToolbarButton",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:13:10.053Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227597655_220_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "toolbarStyle",
+            "newValue": "Clear"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--chart",
+            "type": "sap.ui.comp.smartchart.SmartChart",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:00.026Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227599717_221_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "toolbarStyle",
+            "newValue": "Standard"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--chart",
+            "type": "sap.ui.comp.smartchart.SmartChart",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:00.027Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227604458_222_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "wrap",
+            "newValue": "Wrap"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--chart",
+            "type": "sap.ui.comp.smartchart.SmartChart",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:00.028Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227606521_223_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "wrap",
+            "newValue": "WrapReverse"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--chart",
+            "type": "sap.ui.comp.smartchart.SmartChart",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:00.029Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227608672_224_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "wrap",
+            "newValue": "NoWrap"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--chart",
+            "type": "sap.ui.comp.smartchart.SmartChart",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:00.030Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227624690_225_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "orientation",
+            "newValue": "Vertical"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:00.031Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227626532_226_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "orientation",
+            "newValue": "Horizontal"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:00.032Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227632855_227_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "showDividers",
+            "newValue": true
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:00.033Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227636689_228_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "showDividers",
+            "newValue": false
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:00.034Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227643074_229_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "100%"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:26.488Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227646402_230_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": ""
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:26.489Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227651190_231_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "10em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:26.490Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227655697_232_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "30em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:26.491Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227659122_233_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "50em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:26.492Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227662887_234_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "80em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:14:26.493Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557227668639_235_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": ""
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--template::VisualFilterBar",
+            "type": "sap.suite.ui.generic.template.AnalyticalListPage.control.visualfilterbar.SmartVisualFilterBar",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:35:03.021Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557230326418_206_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "20em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:59:02.928Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557230329885_207_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "11em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:59:02.929Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557230332214_208_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "width",
+            "newValue": "12em"
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:59:02.930Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    },
+    {
+        "fileName": "id_1557230340262_209_propertyChange",
+        "fileType": "change",
+        "changeType": "propertyChange",
+        "moduleName": "",
+        "reference": "cons.consolutTimesheetAnalysis.Component",
+        "packageName": "$TMP",
+        "content": {
+            "property": "minWidth",
+            "newValue": 12
+        },
+        "selector": {
+            "id": "cons.consolutTimesheetAnalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Z_C_TIMESHEETANALYSIS--table-TimeSheetDate",
+            "type": "sap.ui.table.AnalyticalColumn",
+            "idIsLocal": false
+        },
+        "layer": "CUSTOMER_BASE",
+        "texts": {},
+        "namespace": "apps/cons.consolutTimesheetAnalysis/changes/",
+        "projectId": "cons.consolutTimesheetAnalysis",
+        "creation": "2019-05-07T11:59:02.931Z",
+        "originalLanguage": "EN",
+        "conditions": {},
+        "context": "",
+        "support": {
+            "generator": "Change.createInitialFileContent",
+            "service": "",
+            "user": "",
+            "sapui5Version": "1.60.1",
+            "sourceChangeFileName": "",
+            "compositeCommand": ""
+        },
+        "oDataInformation": {},
+        "dependentSelector": {},
+        "validAppVersions": {
+            "creation": "1.0.0",
+            "from": "1.0.0",
+            "to": "1.0.0"
+        },
+        "jsOnly": false,
+        "variantReference": ""
+    }
+]

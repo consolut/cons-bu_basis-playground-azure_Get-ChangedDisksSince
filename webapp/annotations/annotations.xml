@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx xmlns:edmx="http://docs.oasis-open.org/odata/ns/edmx" Version="4.0">
+    <edmx:Reference Uri="https://oasis-tcs.github.io/odata-vocabularies/vocabularies/Org.OData.Capabilities.V1.xml">
+        <edmx:Include Namespace="Org.OData.Capabilities.V1" Alias="Capabilities"/>
+    </edmx:Reference>
+	<edmx:Reference Uri="/sap/bc/ui5_ui5/ui2/ushell/resources/sap/ushell/components/factsheet/vocabularies/UI.xml">
+		<edmx:Include Alias="UI" Namespace="com.sap.vocabularies.UI.v1"/>
+	</edmx:Reference>
+	<edmx:Reference Uri="/sap/opu/odata/sap/Z_C_TIMESHEETANALYSIS_CDS/$metadata">
+		<edmx:Include Alias="Z_C_TIMESHEETANALYSIS_CDS" Namespace="Z_C_TIMESHEETANALYSIS_CDS"/>
+	</edmx:Reference>
+	<edmx:Reference Uri="https://wiki.scn.sap.com/wiki/download/attachments/448470974/Common.xml?api=v2">
+		<edmx:Include Alias="Common" Namespace="com.sap.vocabularies.Common.v1"/>
+	</edmx:Reference>
+	<edmx:DataServices>
+		<Schema xmlns="http://docs.oasis-open.org/odata/ns/edm" Namespace="cons.consolutTimesheetAnalysis.Z_C_TIMESHEETANALYSIS_CDS">
+			<!--===============================================================================
+                Entity Type from chosen collection 
+                ================================================================================-->
+			<!--===============================================================================
+                Entity Type from chosen navigation property
+                ================================================================================-->
+			<Annotations Target="Z_C_TIMESHEETANALYSIS_CDS.Z_C_TIMESHEETANALYSISType">
+				<Annotation Term="UI.FieldGroup" Qualifier="Header">
+					<Record Type="UI.FieldGroupType">
+						<PropertyValue Property="Data">
+							<Collection>
+								<Record Type="UI.DataField">
+									<PropertyValue Property="Value" Path="TimeSheetDate_T"/>
+								</Record>
+								<Record Type="UI.DataField">
+									<PropertyValue Property="Value" Path="RecordedHours"/>
+								</Record>
+							</Collection>
+						</PropertyValue>
+					</Record>
+				</Annotation>
+				<Annotation Term="UI.HeaderFacets">
+					<Collection>
+						<Record Type="UI.ReferenceFacet">
+							<PropertyValue Property="Target" AnnotationPath="@UI.FieldGroup#Header"/>
+							<PropertyValue Property="Label" String="{@i18n&gt;TIME_RECORD}"/>
+						</Record>
+					</Collection>
+				</Annotation>
+				<Annotation Term="UI.LineItem">
+					<Collection>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="TimeSheetDate_T"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="ProjectType"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Label" String="Activity type"/>
+							<PropertyValue Property="Value" Path="ActivityType"/>
+							<Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/High"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="WBSElement"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="Project"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="PersonnelNumber"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="InternalLevel"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Label" String="Recorded Hours"/>
+							<PropertyValue Property="Value" Path="RecordedHours"/>
+							<Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/High"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="SimpleRevenue"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="Description"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="TimeType"/>
+						</Record>
+						<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="TimeSheetRecord"/>
+						</Record>
+                        	<Record Type="UI.DataField">
+							<PropertyValue Property="Value" Path="TimeSheetRecordOrigin"/>
+						</Record>
+					</Collection>
+				</Annotation>
+				<Annotation Term="UI.Facets">
+					<Collection>
+						<Record Type="UI.ReferenceFacet">
+							<PropertyValue Property="Target" AnnotationPath="@UI.FieldGroup#TimeRecord"/>
+							<PropertyValue Property="Label" String="{@i18n&gt;TIME_RECORD}"/>
+						</Record>
+						<Record Type="UI.ReferenceFacet">
+							<PropertyValue Property="Target" AnnotationPath="@UI.FieldGroup#EmployeeData"/>
+							<PropertyValue Property="Label" String="{@i18n&gt;EMPLOYEE_DATA_}"/>
+						</Record>
+						<Record Type="UI.ReferenceFacet">
+							<PropertyValue Property="Target" AnnotationPath="@UI.FieldGroup#TravelExpenses"/>
+							<PropertyValue Property="Label" String="{@i18n&gt;TRAVEL_EXPENSES}"/>
+						</Record>
+					</Collection>
+				</Annotation>
+
+				
+
+			</Annotations>
+			<Annotations Target="Z_C_TIMESHEETANALYSIS_CDS.Z_C_TIMESHEETANALYSIS_CDS_Entities/Z_C_TIMESHEETANALYSIS">
+				<Annotation Term="Capabilities.FilterRestrictions">
+					<Record Type="Capabilities.FilterRestrictionsType">
+						<PropertyValue Property="FilterExpressionRestrictions">
+							<Collection>
+								<Record Type="Capabilities.FilterExpressionRestrictionType">
+								 	
+									<PropertyValue Property="Property" PropertyPath="CalendarYear"/>
+									<PropertyValue Property="AllowedExpressions"  String="SingleRange"/>
+								</Record>
+							</Collection>
+						</PropertyValue>
+					</Record>
+				</Annotation>
+			</Annotations>
+			<Annotations Target="Z_C_TIMESHEETANALYSIS_CDS.Z_C_TIMESHEETANALYSISType/CalendarMonth">
+				<Annotation Term="Common.ValueList">
+					<Record Type="Common.ValueListType">
+						<PropertyValue Property="CollectionPath" String="Z_C_TIMESHEETANALYSIS"/>
+						<PropertyValue Property="PresentationVariantQualifier" String="FilterHoursByMonat"/>
+					</Record>
+				</Annotation>
+			</Annotations>
+			<Annotations Target="Z_C_TIMESHEETANALYSIS_CDS.Z_C_TIMESHEETANALYSISType/CalendarWeek">
+				<Annotation Term="Common.ValueList">
+					<Record Type="Common.ValueListType">
+						<PropertyValue Property="CollectionPath" String="Z_C_TIMESHEETANALYSIS"/>
+						<PropertyValue Property="PresentationVariantQualifier" String="FilterHoursByWeek"/>
+					</Record>
+				</Annotation>
+			</Annotations>
+			<Annotations Target="Z_C_TIMESHEETANALYSIS_CDS.Z_C_TIMESHEETANALYSISType/TimeType">
+				<Annotation Term="Common.ValueList">
+					<Record Type="Common.ValueListType">
+						<PropertyValue Property="CollectionPath" String="Z_C_TIMESHEETANALYSIS"/>
+						<PropertyValue Property="PresentationVariantQualifier" String="FilterHoursByTimeType"/>
+					</Record>
+				</Annotation>
+			</Annotations>
+			<Annotations Target="Z_C_TIMESHEETANALYSIS_CDS.Z_C_TIMESHEETANALYSISType/TimeSheetDate_T">
+				<Annotation Term="Common.Label" String="{@i18n&gt;DATE}"/>
+			</Annotations>
+		</Schema>
+	</edmx:DataServices>
+</edmx:Edmx>

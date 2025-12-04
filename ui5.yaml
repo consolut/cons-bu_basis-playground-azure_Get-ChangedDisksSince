@@ -1,0 +1,33 @@
+specVersion: "2.4"
+metadata:
+  name: cons.consolutTimesheetAnalysis
+type: application
+server:
+  customMiddleware:
+    - name: fiori-tools-proxy
+      afterMiddleware: compression
+      configuration:
+        ignoreCertError: false
+        backend:
+          - path: /sap
+            url: http://con-csd-ap.consolut.local:8200
+            client: "110"
+            destination: CON_CSD_110
+            authenticationType: NoAuthentication
+        ui5:
+          path:
+            - /resources
+            - /test-resources
+          url: https://ui5.sap.com
+          version: 1.108.30
+    - name: fiori-tools-appreload
+      afterMiddleware: compression
+      configuration:
+        port: 35729
+        path: webapp
+        delay: 300
+    - name: fiori-tools-preview
+      afterMiddleware: fiori-tools-appreload
+      configuration:
+        component: cons.consolutTimesheetAnalysis
+        ui5Theme: sap_fiori_3

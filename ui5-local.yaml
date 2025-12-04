@@ -1,0 +1,42 @@
+specVersion: "2.4"
+metadata:
+  name: cons.consolutTimesheetAnalysis
+type: application
+framework:
+  name: SAPUI5
+  version: 1.108.30
+  libraries:
+    - name: sap.suite.ui.generic.template
+    - name: sap.ui.core
+    - name: sap.ui.generic.app
+    - name: sap.m
+    - name: sap.ushell
+    - name: sap.f
+    - name: sap.ui.comp
+    - name: sap.ui.table
+    - name: themelib_sap_belize
+    - name: themelib_sap_bluecrystal
+    - name: themelib_sap_fiori_3
+server:
+  customMiddleware:
+    - name: fiori-tools-proxy
+      afterMiddleware: compression
+      configuration:
+        ignoreCertError: false
+        backend:
+          - path: /sap
+            url: http://con-csd-ap.consolut.local:8200
+            client: "110"
+            destination: CON_CSD_110
+            authenticationType: NoAuthentication
+    - name: fiori-tools-appreload
+      afterMiddleware: compression
+      configuration:
+        port: 35729
+        path: webapp
+        delay: 300
+    - name: fiori-tools-preview
+      afterMiddleware: fiori-tools-appreload
+      configuration:
+        component: cons.consolutTimesheetAnalysis
+        ui5Theme: sap_fiori_3
